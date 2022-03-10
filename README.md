@@ -2,7 +2,6 @@
 
 Simple ecommerce basic app developed in Spring Boot implementing Spring Security
 
-===
 
 ## SIGNIN
 
